@@ -6,7 +6,7 @@ Descrição do Projeto:
 - Site/app de delivery de comida inspirado no Ifood
 
 Tecnologias utilizadas:
-JavaScrit - React - HTML - CSS
+JavaScrit - React - HTML - Styled-Components - Axios - Material UI
 
 Link Surge:
 http://ifuture-pablo.surge.sh
