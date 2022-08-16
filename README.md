@@ -1,6 +1,4 @@
-Layout: rappi4B
-
-Projeto final do Frontend do curso de Desenvolvimento Web Full Stack da Labenu intitulado de *LabeFood*.
+Layout: IfutureA
 
 LabeFood
 
@@ -9,13 +7,6 @@ Descrição do Projeto:
 
 Tecnologias utilizadas:
 - JavaScrit - React - HTML - CSS
-
-Pessoas Contribuidoras:
-- Rodrigo Vieira 
-- Sérvulo Silva
-- Pablo Gomes 
-- Matheus Souza
-- Willhan Marques
 
 Link Surge:
 http://ifuture-pablo.surge.sh
