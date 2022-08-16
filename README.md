@@ -15,43 +15,41 @@ Imagens:
 
 Login
 
-![image](filesystem:chrome-extension://fdpohaocaechififmbbbbbknoalclacl/persistent/screencapture-ifuture-pablo-surge-sh-login-2022-08-16-19_59_41.png)
-
+![screencapture-ifuture-pablo-surge-sh-login-2022-08-16-19_59_41](https://user-images.githubusercontent.com/84820536/184999665-8bfaad39-333c-4213-b4ad-bc938121a0fe.png)
 
 
 Cadastro
 
-![image](https://user-images.githubusercontent.com/99182794/169717932-26193de3-ca35-4f1c-ab8d-970faccad209.png)
+![screencapture-ifuture-pablo-surge-sh-signUp-2022-08-16-20_01_12 (1)](https://user-images.githubusercontent.com/84820536/184999752-18cd3ae2-bfac-4f83-a6da-0cf89d3e3b03.png)
 
+![screencapture-ifuture-pablo-surge-sh-signUp-adress-2022-08-16-20_02_09](https://user-images.githubusercontent.com/84820536/184999823-902da792-46f2-41c5-81cc-3adf51de055b.png)
 
 
 Home
 
-![image](https://user-images.githubusercontent.com/99182794/169718097-532ce6a7-94af-45b5-b688-b3b43b77e8d1.png)
+![ifuture de tela 2022-08-16 200459](https://user-images.githubusercontent.com/84820536/185000160-ce811de1-2653-48ff-acdd-b3092b52ecf1.jpg)
 
 
 
 Página do Restaurante
 
-![image](https://user-images.githubusercontent.com/99182794/169718130-615be444-63a8-498b-aaae-d068958442dd.png)
+![Capreutaurants de tela 2022-08-16 200626](https://user-images.githubusercontent.com/84820536/185000271-aedd4ca6-23ae-46ae-8941-d946d50b2f23.jpg)
 
 
 
 Adicionando produtos ao carrinho
 
-![image](https://user-images.githubusercontent.com/99182794/169718152-ac881964-4c04-46a4-8398-667e310b02b7.png)
-
+![modal de tela 2022-08-16 200745](https://user-images.githubusercontent.com/84820536/185000368-aa8e037c-2442-468e-ad3d-b8ed020345d4.jpg)
 
 
 Carrinho
 
-
-![image](https://user-images.githubusercontent.com/99182794/169718220-7e859d86-dba3-4254-8d23-c3929a0b8823.png)
-
+![screencapture-ifuture-pablo-surge-sh-cart-2022-08-16-20_09_15](https://user-images.githubusercontent.com/84820536/185000541-6f6804f4-7318-4f33-a688-165b3f9ee90d.png)
 
 
 Perfil
 
-![image](https://user-images.githubusercontent.com/99182794/169718250-fa78486a-c773-4d3e-a078-069a5f53648e.png)
+![screencapture-ifuture-pablo-surge-sh-profile-2022-08-16-20_10_11](https://user-images.githubusercontent.com/84820536/185000599-f2a843c5-7939-479f-900c-a943356a7a30.png)
+
 
 
