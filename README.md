@@ -5,10 +5,7 @@ Projeto final do Frontend do curso de Desenvolvimento Web Full Stack da Labenu i
 LabeFood
 
 Descrição do Projeto:
-- Site/app de delivery de comida inspirado no Rappi
-
-Status do projeto:
-Fase de teste
+- Site/app de delivery de comida inspirado no Ifood
 
 Tecnologias utilizadas:
 - JavaScrit - React - HTML - CSS
@@ -21,7 +18,7 @@ Pessoas Contribuidoras:
 - Willhan Marques
 
 Link Surge:
-http://labefood-rappi.surge.sh
+http://ifuture-pablo.surge.sh
 
 Imagens:
 
