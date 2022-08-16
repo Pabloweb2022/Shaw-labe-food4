@@ -6,7 +6,7 @@ Descrição do Projeto:
 - Site/app de delivery de comida inspirado no Ifood
 
 Tecnologias utilizadas:
-- JavaScrit - React - HTML - CSS
+JavaScrit - React - HTML - CSS
 
 Link Surge:
 http://ifuture-pablo.surge.sh
@@ -15,7 +15,7 @@ Imagens:
 
 Login
 
-![image](https://user-images.githubusercontent.com/99182794/169717831-102b4f14-0172-4c4c-98b9-e1f1c28f5bb4.png)
+![image](filesystem:chrome-extension://fdpohaocaechififmbbbbbknoalclacl/persistent/screencapture-ifuture-pablo-surge-sh-login-2022-08-16-19_59_41.png)
 
 
 
